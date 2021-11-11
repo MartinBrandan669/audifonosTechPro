@@ -377,3 +377,17 @@ img {
     font-weight: 900;
     border: none;
 }
+
+
+/* FOOTER */
+
+.footer {
+    padding: 2rem;
+}
+
+.footer p {
+    font-family: var(--fuenteSecundaria);
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    color: var(--colorPrimario);
+}
